@@ -39,7 +39,9 @@
             padding: 15px;
         }
         #login{
-            border-radius: 15px 15px 15px 15px;
+            color: white;
+            padding-top:15px;
+            margin-left:690px;
         }
         
     </style>
@@ -59,16 +61,16 @@
                             <a id = "navitem" class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a id = "navitem" class="nav-link" asp-area="" asp-controller="Blog" asp-action="BlogIndex">Blog</a>
-                        </li>
-                        <li class="nav-item">
                             <a id = "navitem" class="nav-link" asp-area="" asp-controller="Kesfedin" asp-action="KesfedinIndex">Keşfedin</a>
                         </li>
                         <li class="nav-item">
                             <a id = "navitem" class="nav-link" asp-area="" asp-controller="Hakkimizda" asp-action="HakkimizdaIndex">Hakkımızda</a>
                         </li>
+                        <li class="nav-item">
+                            <a id="login" class="nav-link" asp-area="" asp-controller="LogIn" asp-action="LogInIndex">Giriş Yap/Kaydol</a>
+                        </li>
                     </ul>
-                    <button id="login" type="button" class="btn btn-dark">Giriş Yap</button>
+
                 </div>
             </div>
         </nav>

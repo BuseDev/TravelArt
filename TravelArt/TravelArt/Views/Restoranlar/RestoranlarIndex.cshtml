@@ -1,0 +1,230 @@
+﻿
+@{
+    ViewData["Title"] = "RestoranlarIndex";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Catamaran:wght@300&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display:wght@400;500&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display:wght@400;500&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Fredericka+the+Great&family=Pacifico&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Pacifico&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <style>
+            #title {
+                font-family: "Playfair Display", "sans-serif";
+                margin-left: 0px;
+                margin-top: 90px;
+                margin-bottom: 120px;
+                text-align: center;
+            }
+
+            #content {
+                font-family: "Catamaran", "sans-serif";
+                font-size: 18px;
+                color: dimgrey;
+            }
+
+            #blogrows {
+                margin-bottom: 100px;
+            }
+
+            #blogcontent {
+                padding-top: 30px;
+            }
+
+
+            #cardcontent {
+                color: black;
+                font-family: "Roboto Slab", "sans-serif";
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+
+            .subinfo {
+                font-family: "Roboto Slab", "sans-serif";
+                font-size: 11px;
+                margin-bottom: 2px;
+            }
+
+            #sublink {
+                color: rgb(179, 0, 59);
+                text-decoration: none;
+            }
+
+                #sublink:hover {
+                    text-decoration: underline;
+                }
+
+            h3 {
+                font-family: "DM Serif Text", "sans-serif";
+                font-size: 25px;
+            }
+
+            a.private {
+                font-family: "Playfair Display", "sans-serif";
+                font-size: 14px;
+            }
+
+                a.private:link {
+                    color: black;
+                    background-color: transparent;
+                    text-decoration: none;
+                }
+
+                a.private:hover {
+                    color: black;
+                    background-color: transparent;
+                    text-decoration: underline;
+                }
+
+                a.private:visited {
+                    color: black;
+                    background-color: transparent;
+                    text-decoration: none;
+                }
+        </style>
+    </head>
+
+    <body>
+
+
+
+        <div id="blogrows" class="container mt-5">
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4 ">
+                    <img src="~/images/swimm.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-6">
+                    <a href="" target="" class="private">Wellness</a>
+                    <p> </p>
+                    <h3>Column 1</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="cardcontent" class="card-text" style="font-size: 10px;">15 Ağustos 2022</p>
+                    <p class="subinfo">
+                        YAZI:
+                        <a id="sublink" href="#">HANNAH COATES</a>
+                    </p>
+                    <p class="subinfo">
+                        DERLEYEN:
+                        <a id="sublink" href="#">DİLRUBA KARAKÖSE</a>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4">
+                    <img src="~/images/saglikliyaglar.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-6">
+                    <a href="" target="" class="private">Wellness</a>
+                    <p> </p>
+                    <h3>Column 2</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="cardcontent" class="card-text" style="font-size: 10px;">15 Ağustos 2022</p>
+                    <p class="subinfo">
+                        YAZI:
+                        <a id="sublink" href="#">HANNAH COATES</a>
+                    </p>
+                    <p class="subinfo">
+                        DERLEYEN:
+                        <a id="sublink" href="#">DİLRUBA KARAKÖSE</a>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4">
+                    <img src="~/images/bellahadid.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-6">
+                    <a href="" target="" class="private">Wellness</a>
+                    <p> </p>
+                    <h3>Column 3</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="cardcontent" class="card-text" style="font-size: 10px;">15 Ağustos 2022</p>
+                    <p class="subinfo">
+                        YAZI:
+                        <a id="sublink" href="#">HANNAH COATES</a>
+                    </p>
+                    <p class="subinfo">
+                        DERLEYEN:
+                        <a id="sublink" href="#">DİLRUBA KARAKÖSE</a>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4">
+                    <img src="~/images/yoga.jpeg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-6">
+                    <a href="" target="" class="private">Wellness</a>
+                    <p> </p>
+                    <h3>Column 4</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="cardcontent" class="card-text" style="font-size: 10px;">15 Ağustos 2022</p>
+                    <p class="subinfo">
+                        YAZI:
+                        <a id="sublink" href="#">HANNAH COATES</a>
+                    </p>
+                    <p class="subinfo">
+                        DERLEYEN:
+                        <a id="sublink" href="#">DİLRUBA KARAKÖSE</a>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4">
+                    <img src="~/images/vegetables.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-6">
+                    <a href="" target="" class="private">Wellness</a>
+                    <p> </p>
+                    <h3>Column 5</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="cardcontent" class="card-text" style="font-size: 10px;">15 Ağustos 2022</p>
+                    <p class="subinfo">
+                        YAZI:
+                        <a id="sublink" href="#">HANNAH COATES</a>
+                    </p>
+                    <p class="subinfo">
+                        DERLEYEN:
+                        <a id="sublink" href="#">DİLRUBA KARAKÖSE</a>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4">
+                    <img src="~/images/kintsugi.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-6">
+                    <a href="" target="" class="private">Wellness</a>
+                    <p> </p>
+                    <h3>Column 6</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="cardcontent" class="card-text" style="font-size: 10px;">15 Ağustos 2022</p>
+                    <p class="subinfo">
+                        YAZI:
+                        <a id="sublink" href="#">HANNAH COATES</a>
+                    </p>
+                    <p class="subinfo">
+                        DERLEYEN:
+                        <a id="sublink" href="#">DİLRUBA KARAKÖSE</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+}
+
+
+

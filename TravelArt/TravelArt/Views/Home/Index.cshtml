@@ -28,7 +28,7 @@
             #darkbuttons{
                 height: 75px;
                 width: 250px;
-                padding-top: 15px;
+                padding-top: 22px;
                 padding-bottom: 15px;
                 padding-left: 15px;
                 padding-right: 15px;
@@ -142,10 +142,9 @@
     </head>
     <body>
         <div id = "buttongroup">
-            <button id = "darkbuttons" type="button" class="btn btn-outline-dark">Oteller</button>
-            <button id = "darkbuttons" type="button" class="btn btn-outline-dark">Gezilecek Yerler</button>
-            <button id = "darkbuttons" type="button" class="btn btn-outline-dark">Restoranlar</button>
-            <button id = "darkbuttons" type="button" class="btn btn-outline-dark">TravelArt Blog</button>
+        <a id="darkbuttons" type="button" class="btn btn-outline-dark" target="_blank" asp-area="" asp-controller="Oteller" asp-action="OtellerIndex">Oteller</a>
+        <a id="darkbuttons" type="button" class="btn btn-outline-dark" target="_blank" asp-area="" asp-controller="GezilecekYerler" asp-action="GezilecekYerlerIndex">Gezilecek Yerler</a>
+        <a id="darkbuttons" type="button" class="btn btn-outline-dark" target="_blank" asp-area="" asp-controller="Restoranlar" asp-action="RestoranlarIndex">Restoranlar</a>
         </div>
         <div class="card border border-0">
             <img id="img" src="~/images/TravelArtHomePage.jpg" class="card-img-fluid" alt="...">

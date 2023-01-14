@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lenovo\\source\\repos\\TravelArt\\TravelArt\\TravelArt.csproj": {}
+    "E:\\TravelArt\\TravelArt\\TravelArt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lenovo\\source\\repos\\TravelArt\\TravelArt\\TravelArt.csproj": {
+    "E:\\TravelArt\\TravelArt\\TravelArt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lenovo\\source\\repos\\TravelArt\\TravelArt\\TravelArt.csproj",
+        "projectUniqueName": "E:\\TravelArt\\TravelArt\\TravelArt.csproj",
         "projectName": "TravelArt",
-        "projectPath": "C:\\Users\\lenovo\\source\\repos\\TravelArt\\TravelArt\\TravelArt.csproj",
+        "projectPath": "E:\\TravelArt\\TravelArt\\TravelArt.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lenovo\\source\\repos\\TravelArt\\TravelArt\\obj\\",
+        "outputPath": "E:\\TravelArt\\TravelArt\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,10 +44,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.11, )"
-            },
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.3.0, )"
             }
           },
           "imports": [
