@@ -9061,11 +9061,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TravelArt\\TravelArt\\TravelArt.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\TravelArt.csproj",
       "projectName": "TravelArt",
-      "projectPath": "E:\\TravelArt\\TravelArt\\TravelArt.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\TravelArt.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "E:\\TravelArt\\TravelArt\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
