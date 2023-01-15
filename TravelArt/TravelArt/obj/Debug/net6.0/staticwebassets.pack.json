@@ -45,6 +45,30 @@
       "PackagePath": "staticwebassets\\images\\ayvalık.jpg"
     },
     {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\balikesir-avlu.jpg",
+      "PackagePath": "staticwebassets\\images\\balikesir-avlu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\balikesir-degirmenbogazi.jpg",
+      "PackagePath": "staticwebassets\\images\\balikesir-degirmenbogazi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\balikesir-saatkulesi.jpg",
+      "PackagePath": "staticwebassets\\images\\balikesir-saatkulesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cundaadası.jpg",
+      "PackagePath": "staticwebassets\\images\\cundaadası.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cundabadehotel.jpg",
+      "PackagePath": "staticwebassets\\images\\cundabadehotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\sarimsakli-plaji.jpg",
+      "PackagePath": "staticwebassets\\images\\sarimsakli-plaji.jpg"
+    },
+    {
       "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
