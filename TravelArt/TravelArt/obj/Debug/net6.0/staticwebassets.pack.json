@@ -41,6 +41,30 @@
       "PackagePath": "staticwebassets\\images\\Zagnos_Pasa_Camii.jpg"
     },
     {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalik-sarimsakli-plaji.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalik-sarimsakli-plaji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalik-taksiyarhis-kilisesi.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalik-taksiyarhis-kilisesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-cihan-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-cihan-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-cletos-ristorante-italiano-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-cletos-ristorante-italiano-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-karina-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-karina-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-uzunhan-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-uzunhan-otel.jpg"
+    },
+    {
       "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık.jpg",
       "PackagePath": "staticwebassets\\images\\ayvalık.jpg"
     },
@@ -57,12 +81,64 @@
       "PackagePath": "staticwebassets\\images\\balikesir-saatkulesi.jpg"
     },
     {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-asiklar-tepesi.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-asiklar-tepesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-ayna-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-ayna-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-la-fuga-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-la-fuga-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-ortunç-koyu.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-ortunç-koyu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-zarbalı-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-zarbalı-otel.jpg"
+    },
+    {
       "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cundaadası.jpg",
       "PackagePath": "staticwebassets\\images\\cundaadası.jpg"
     },
     {
       "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cundabadehotel.jpg",
       "PackagePath": "staticwebassets\\images\\cundabadehotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit- kazdagi-milli-parki.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit- kazdagi-milli-parki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-altinkum-plaji.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-altinkum-plaji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-cumhuriyet-lokantası.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-cumhuriyet-lokantası.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-daridere-tabiat-parki.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-daridere-tabiat-parki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-istasyon-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-istasyon-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-manastirhan-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-manastirhan-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-venus-termal-butik-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-venus-termal-butik-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-verde-blu-bungalow.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-verde-blu-bungalow.jpg"
     },
     {
       "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\sarimsakli-plaji.jpg",
