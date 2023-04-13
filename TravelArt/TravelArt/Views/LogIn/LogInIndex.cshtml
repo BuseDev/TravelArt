@@ -1,0 +1,138 @@
+﻿
+@{
+    ViewData["Title"] = "LogIn";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+ 
+        <style>
+
+            h1{
+                display: flex;
+                justify-content: center;
+                /*içerik ortalandı*/
+                color:dimgray;
+                padding-bottom:30%;
+            }
+
+            #buttongroup {
+                background-color: whitesmoke;
+                border-radius: 15px 15px 15px 15px;
+                width: 23%;
+                padding: 40px;
+                padding-top: 60px;
+                padding-bottom:80px;
+
+                /*ekrandaki yerleşimi ayarlandı*/
+                margin: auto;
+                margin-top:5%;
+                margin-left: 50px;
+                margin-right: 50px;
+                
+            }
+
+            #button{
+                border-radius: 15px 15px 15px 15px;
+                width:100%;
+                margin-top:20px;
+                border-color: dimgray;
+                color:dimgray;
+            }
+
+            #button:hover {
+                border-color: dimgray;
+                color: whitesmoke;
+                background-color:dimgray;
+            }
+
+            #logininput{
+                
+            }
+
+            #register{
+                background-color: whitesmoke;
+                border-radius: 15px 15px 15px 15px;
+                width: 23%;
+                margin-left: 50px;
+                margin-top:10px;
+                display:flex; /*iki etiketi yan yana gösterir*/
+                justify-content: center;
+                padding-top:10px;
+            }
+
+            #carouselExampleFade .carousel-item img {
+                object-fit: cover;
+                object-position: center;
+                height: 70vh;
+                overflow: hidden;
+            }
+
+            #carousel {
+                margin: 200px;
+            }
+
+            #sublink{
+                text-decoration: none;
+            }
+
+        </style>
+        
+    </head>
+    <body>
+        <div class="card border border-0">
+            <img id="img" src="~/images/Ayvalık.jpg" class="card-img-fluid" alt="...">
+            <div href="#" class="card-img-overlay text-light">
+                <form>
+                   <div id="buttongroup">
+                        <h1>Üye Girişi</h1>
+                        <div class="input-group mb-3">
+                            <input id="logininput" type="text" class="form-control" placeholder="E-Posta" aria-label="Username" aria-describedby="basic-addon1">
+                        </div>
+                        <div class="input-group mb-3">
+                            <input id="logininput" type="text" class="form-control" placeholder="Şifre" aria-label="Username" aria-describedby="basic-addon1">
+                        </div>
+                        <button id="button" type="button" class="btn">Giriş Yap</button>
+                    </div>
+
+                    <div id="register">
+                        <p class="subinfo" style="color: dimgray;">
+                            Hesabın yok mu?
+                            <a id="sublink" href="#" style="color:rgb(0, 179, 89);">Kaydol</a>
+                        </p>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div id="carousel">
+            <div id="carouselExampleFade" class="carousel slide carousel-fade">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="~/images/balikesir-degirmenbogazi.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="~/images/balikesir-avlu.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="~/images/cundaadası.jpg" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+        </div>
+    </body>
+    </html>
+
+
+
+}
+

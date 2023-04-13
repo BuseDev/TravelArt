@@ -1,0 +1,69 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TravelArt
+build_property.RootNamespace = TravelArt
+build_property.ProjectDir = C:\Users\lenovo\Documents\GitHub\TravelArt\TravelArt\TravelArt\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\lenovo\Documents\GitHub\TravelArt\TravelArt\TravelArt
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/GezilecekYerler/GezilecekYerlerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2V6aWxlY2VrWWVybGVyXEdlemlsZWNla1llcmxlckluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Hakkimizda/HakkimizdaIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFra2ltaXpkYVxIYWtraW1pemRhSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Kesfedin/KesfedinIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2VzZmVkaW5cS2VzZmVkaW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/LogIn/LogInIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9nSW5cTG9nSW5JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Oteller/OtellerIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3RlbGxlclxPdGVsbGVySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Restoranlar/RestoranlarIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdG9yYW5sYXJcUmVzdG9yYW5sYXJJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lenovo/Documents/GitHub/TravelArt/TravelArt/TravelArt/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-k2hbongm6f

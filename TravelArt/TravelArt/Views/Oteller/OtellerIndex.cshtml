@@ -1,0 +1,190 @@
+﻿
+@{
+    ViewData["Title"] = "Oteller";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Catamaran:wght@300&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display:wght@400;500&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display:wght@400;500&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Merriweather:wght@300;700&family=Oswald:wght@300&family=Pacifico&family=Playfair+Display&family=Roboto+Slab:wght@300&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Text&family=Fredericka+the+Great&family=Pacifico&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Cormorant&family=DM+Serif+Text&family=Fredericka+the+Great&family=Pacifico&family=Rubik+Distressed&display=swap" rel="stylesheet">
+        <style>
+            #title {
+                font-family: "Playfair Display", "sans-serif";
+                margin-left: 0px;
+                margin-top: 90px;
+                margin-bottom: 120px;
+                text-align: center;
+            }
+
+            #content {
+                font-family: "Catamaran", "sans-serif";
+                font-size: 14px;
+                color: dimgrey;
+            }
+
+            #blogrows {
+                margin-bottom: 100px;
+            }
+
+
+            #cardcontent {
+                color: black;
+                font-family: "Roboto Slab", "sans-serif";
+                margin-top: 20px;
+                margin-bottom: 20px;
+            }
+
+            .subinfo {
+                font-family: "Roboto Slab", "sans-serif";
+                font-size: 12px;
+                margin-bottom: 2px;
+                display: flex;
+            }
+
+
+            h3 {
+                font-family: "DM Serif Text", "sans-serif";
+                font-size: 22px;
+            }
+
+            a.private {
+                font-family: "Playfair Display", "sans-serif";
+                font-size: 14px;
+            }
+
+            a.private:link {
+                color: black;
+                background-color: transparent;
+                text-decoration: none;
+            }
+
+            a.private:hover {
+                color: black;
+                background-color: transparent;
+                text-decoration: underline;
+            }
+
+            a.private:visited {
+                color: black;
+                background-color: transparent;
+                text-decoration: none;
+            }
+
+        </style>
+    </head>
+
+    <body>
+
+      
+
+        <div id="blogrows" class="container mt-5">
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4 ">
+                    <img src="~/images/ayvalık-cihan-otel.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-5">
+                    <a href="" target="" class="private">Hotels</a>
+                    <p> </p>
+                    <h3>Cihan Otel</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="subinfo" class="subinfo">
+                        Ayvalık/Balıkesir
+                        <p style="text-align:right;">Fiyat: ₺ 200</p>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4 ">
+                    <img src="~/images/ayvalık-uzunhan-otel.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-5">
+                    <a href="" target="" class="private">Hotels</a>
+                    <p> </p>
+                    <h3>Uzunhan Otel</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="subinfo" class="subinfo">
+                        Ayvalık/Balıkesir
+                        <p style="text-align:right;">Fiyat: ₺ 200</p>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4 ">
+                    <img src="~/images/cunda-zarbalı-otel.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-5">
+                    <a href="" target="" class="private">Hotels</a>
+                    <p> </p>
+                    <h3>Zarbalı Otel</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="subinfo" class="subinfo">
+                        Cunda/Balıkesir
+                    <p style="text-align:right;">Fiyat: ₺ 200</p>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4 ">
+                    <img src="~/images/edremit-manastirhan-otel.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-5">
+                    <a href="" target="" class="private">Hotels</a>
+                    <p> </p>
+                    <h3>Manastırhan Otel</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="subinfo" class="subinfo">
+                        Edremit/Balıkesir
+                    <p style="text-align:right;">Fiyat: ₺ 200</p>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4 ">
+                    <img src="~/images/edremit-venus-termal-butik-otel.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-5">
+                    <a href="" target="" class="private">Hotels</a>
+                    <p> </p>
+                    <h3>Venüs Termal Butik Otel</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="subinfo" class="subinfo">
+                        Edremit/Balıkesir
+                    <p style="text-align:right;">Fiyat: ₺ 200</p>
+                    </p>
+                </div>
+            </div>
+            <div class="row" style="margin-bottom:30px;">
+                <div class="col-sm-4 ">
+                    <img src="~/images/edremit-verde-blu-bungalow.jpg" class="img-thumbnail border border-0" alt="...">
+                </div>
+                <div id="blogcontent" class="col-sm-5">
+                    <a href="" target="" class="private">Hotels</a>
+                    <p> </p>
+                    <h3>Verde Blu Bungalow</h3>
+                    <p id="content">Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+                    <p id="content">Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+                    <p id="subinfo" class="subinfo">
+                        Edremit/Balıkesir
+                        <p style="text-align:right;">Fiyat: ₺ 200</p>
+                    </p>
+                </div>
+            </div>
+           
+        </div>
+    </body>
+    </html>
+}
+
+

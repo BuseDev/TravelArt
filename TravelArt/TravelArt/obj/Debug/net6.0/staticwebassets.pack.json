@@ -1,0 +1,397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TravelArt.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TravelArt.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\icons\\instagram.png",
+      "PackagePath": "staticwebassets\\icons\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\icons\\linkedin.png",
+      "PackagePath": "staticwebassets\\icons\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\icons\\twitter.png",
+      "PackagePath": "staticwebassets\\icons\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\Balikesir_Museum.jpg",
+      "PackagePath": "staticwebassets\\images\\Balikesir_Museum.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\Balikesir_Saat_Kulesi.jpg",
+      "PackagePath": "staticwebassets\\images\\Balikesir_Saat_Kulesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\TravelArtHomePage.jpg",
+      "PackagePath": "staticwebassets\\images\\TravelArtHomePage.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\Zagnos_Pasa_Camii.jpg",
+      "PackagePath": "staticwebassets\\images\\Zagnos_Pasa_Camii.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalik-sarimsakli-plaji.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalik-sarimsakli-plaji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalik-taksiyarhis-kilisesi.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalik-taksiyarhis-kilisesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-cihan-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-cihan-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-cletos-ristorante-italiano-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-cletos-ristorante-italiano-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-karina-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-karina-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık-uzunhan-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık-uzunhan-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\ayvalık.jpg",
+      "PackagePath": "staticwebassets\\images\\ayvalık.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\balikesir-avlu.jpg",
+      "PackagePath": "staticwebassets\\images\\balikesir-avlu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\balikesir-degirmenbogazi.jpg",
+      "PackagePath": "staticwebassets\\images\\balikesir-degirmenbogazi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\balikesir-saatkulesi.jpg",
+      "PackagePath": "staticwebassets\\images\\balikesir-saatkulesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-asiklar-tepesi.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-asiklar-tepesi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-ayna-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-ayna-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-la-fuga-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-la-fuga-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-ortunç-koyu.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-ortunç-koyu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cunda-zarbalı-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\cunda-zarbalı-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cundaadası.jpg",
+      "PackagePath": "staticwebassets\\images\\cundaadası.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\cundabadehotel.jpg",
+      "PackagePath": "staticwebassets\\images\\cundabadehotel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit- kazdagi-milli-parki.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit- kazdagi-milli-parki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-altinkum-plaji.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-altinkum-plaji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-cumhuriyet-lokantası.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-cumhuriyet-lokantası.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-daridere-tabiat-parki.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-daridere-tabiat-parki.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-istasyon-restoran.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-istasyon-restoran.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-manastirhan-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-manastirhan-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-venus-termal-butik-otel.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-venus-termal-butik-otel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\edremit-verde-blu-bungalow.jpg",
+      "PackagePath": "staticwebassets\\images\\edremit-verde-blu-bungalow.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\images\\sarimsakli-plaji.jpg",
+      "PackagePath": "staticwebassets\\images\\sarimsakli-plaji.jpg"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\lenovo\\Documents\\GitHub\\TravelArt\\TravelArt\\TravelArt\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TravelArt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TravelArt.props",
+      "PackagePath": "build\\TravelArt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TravelArt.props",
+      "PackagePath": "buildMultiTargeting\\TravelArt.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TravelArt.props",
+      "PackagePath": "buildTransitive\\TravelArt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
